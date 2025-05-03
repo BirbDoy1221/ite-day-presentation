@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bia2untndm20o"
+path="res://.godot/imported/Coin_B.obj-80cdf69fe05bcc240d5cce8a55ab3cce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Coin_B.obj-80cdf69fe05bcc240d5cce8a55ab3cce.mesh"]
+
+source_file="res://assets/KayKit_Prototype_Bits_1.0_FREE/Assets/obj/Coin_B.obj"
+dest_files=["res://.godot/imported/Coin_B.obj-80cdf69fe05bcc240d5cce8a55ab3cce.mesh", "res://.godot/imported/Coin_B.obj-80cdf69fe05bcc240d5cce8a55ab3cce.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://do8p4lea72p1w"]
+
+[ext_resource type="PackedScene" uid="uid://gxwu4twol7ak" path="res://assets/KayKit_Prototype_Bits_1.0_FREE/Assets/gltf/Floor_Prototype.gltf" id="1_ml5ad"]
+
+[node name="FloorTiles" type="Node3D"]
+
+[node name="Floor_Prototype2" parent="." instance=ExtResource("1_ml5ad")]
